@@ -1,0 +1,9 @@
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\obj\Debug\Dictionary.Form1.resources
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\obj\Debug\Dictionary.Properties.Resources.resources
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\obj\Debug\Dictionary.csproj.GenerateResource.Cache
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+E:\Giáo trình Đại học\CƠ SỞ LẬP TRÌNH\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<DictionaryItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Items>
+    <DictionaryData>
+      <Key>Hello</Key>
+      <Meaning>Xin chào</Meaning>
+      <Explaination>Từ mang ý nghĩa chào hỏi. Có thể dùng mỗi khi gặp một ai đó.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Good bye</Key>
+      <Meaning>Chào tạm biệt</Meaning>
+      <Explaination>Từ mang ý nghĩa chào tạm biệt. Có thể dùng mỗi khi tạm biệt ai đó.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>How are you</Key>
+      <Meaning>Bạn khỏe không</Meaning>
+      <Explaination>Câu hỏi sức khỏe. Dùng để hỏi thăm sức khỏe của một ai đó</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>dinner</Key>
+      <Meaning>bữa ăn tối</Meaning>
+      <Explaination>chỉ bữa ăn vào lúc chiều từ 5pm trở đi</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>morning</Key>
+      <Meaning>buổi sáng</Meaning>
+      <Explaination>Thường sử dụng trong câu chào. Goodmorning</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>afternoon</Key>
+      <Meaning>buổi chiều</Meaning>
+      <Explaination>Chỉ một khoảng thời gian trong ngày, từ sau 12 giờ trưa đến 6 giờ tối.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>evening</Key>
+      <Meaning>buổi tối</Meaning>
+      <Explaination>Chỉ một khoảng thời gian trong ngày, từ sau 12 giờ trưa đến 6 giờ tối.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>breakfast</Key>
+      <Meaning>điểm tâm</Meaning>
+      <Explaination>chỉ bữa ăn vào buổi sáng.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>lunch</Key>
+      <Meaning>bữa ăn trưa</Meaning>
+      <Explaination>chỉ bữa ăn từ 10 giờ sáng đến 1 giờ chiều.</Explaination>
+    </DictionaryData>
+    <DictionaryData>
+      <Key>Happy New Year</Key>
+      <Meaning>chúc mừng năm mới</Meaning>
+      <Explaination>Dùng trong dịp năm mới. Chúc mọi người một năm mới an lành ahihihihihiihihi</Explaination>
+    </DictionaryData>
+  </Items>
+</DictionaryItem>
